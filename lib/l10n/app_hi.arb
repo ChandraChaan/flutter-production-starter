@@ -1,0 +1,19 @@
+{
+  "@@locale": "hi",
+  "appTitle": "प्रोडक्शन स्टार्टर",
+  "articlesTitle": "लेख",
+  "articleNotFound": "लेख नहीं मिला।",
+  "emptyArticles": "अभी कोई लेख नहीं है।",
+  "retry": "फिर से कोशिश करें",
+  "errorNetwork": "इंटरनेट कनेक्शन नहीं है। अपना नेटवर्क जांचें और फिर से कोशिश करें।",
+  "errorServer": "हमारी ओर से कुछ गड़बड़ हो गई। कृपया फिर से कोशिश करें।",
+  "errorUnknown": "कुछ गड़बड़ हो गई। कृपया फिर से कोशिश करें।",
+  "settings": "सेटिंग्स",
+  "theme": "थीम",
+  "themeSystem": "सिस्टम",
+  "themeLight": "लाइट",
+  "themeDark": "डार्क",
+  "language": "भाषा",
+  "languageSystem": "सिस्टम",
+  "environment": "एनवायरनमेंट"
+}

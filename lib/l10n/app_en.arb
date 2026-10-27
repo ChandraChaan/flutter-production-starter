@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appTitle": "Production Starter",
+  "articlesTitle": "Articles",
+  "articleNotFound": "Article not found.",
+  "emptyArticles": "No articles yet.",
+  "retry": "Try again",
+  "errorNetwork": "No internet connection. Check your network and try again.",
+  "errorServer": "Something went wrong on our side. Please try again.",
+  "errorUnknown": "Something went wrong. Please try again.",
+  "settings": "Settings",
+  "theme": "Theme",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "language": "Language",
+  "languageSystem": "System",
+  "environment": "Environment"
+}
